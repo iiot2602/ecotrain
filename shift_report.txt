@@ -1,0 +1,18 @@
+ECOTRAIN SHIFT REPORT (simulated data)
+Created: 10/29/2026, 6:42:32 PM by Alex Morgan
+
+Readings saved: 289
+  CO₂: avg 813.2 ppm, min 587, max 1150, outside normal 44%
+  Temperature: avg 23.6 °C, min 22, max 25.9, outside normal 39%
+  Humidity: avg 51.6 %, min 45, max 61, outside normal 3%
+  Noise: avg 62.8 dB, min 55, max 73, outside normal 18%
+
+Incidents: 14 · handled 36% · open 9
+Average response time: 5.2 min
+
+Resolved incidents:
+  #20 EC 204 Car 3: CO₂ back to normal. Action: auto-resolved
+  #19 EC 204 Car 3: Passenger report: Air feels stuffy. Action: Ventilation set to MAX, checked door 2
+  #3 EC 204 : Air quality back to good. Action: auto-resolved
+
+Ventilation now: NORMAL (auto)
